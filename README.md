@@ -5,6 +5,10 @@ Built with the latest AI technologies to assist in early lung cancer diagnosis.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer)
 ---
+**Note:** This project is created **for practice and learning purposes only** and is **not licensed for real-world clinical or medical use**.
+
+The system integrates explainable AI (XAI) methods with lightweight CNN architectures, optimized for scalability and research demonstrations.
+
 
 ## 📑 Table of Contents
 - [Overview](#overview)  
@@ -73,11 +77,8 @@ To run the model:
 ```bash
 # Example command
 python main.py
+
 ```
-
-*(Replace `main.py` with your actual script for training/inference.)*
-
----
 
 ## 🧪 Testing
 
@@ -86,10 +87,6 @@ Run tests using:
 ```bash
 pytest
 ```
-
-*(Or provide test framework commands if different.)*
-
----
 
 ## 🤝 Contributing
 
