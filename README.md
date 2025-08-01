@@ -4,11 +4,6 @@
 Built with the latest AI technologies to assist in early lung cancer diagnosis.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer)
-[![View Documentation](https://img.shields.io/badge/View-Documentation-blue)](https://github.com/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer/wiki)
-[![License](https://img.shields.io/github/license/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer)](https://github.com/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer/issues)
-[![Stars](https://img.shields.io/github/stars/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer?style=social)](https://github.com/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer/stargazers)
-
 ---
 
 ## 📑 Table of Contents
@@ -119,7 +114,7 @@ See [LICENSE](LICENSE) for details.
 
 **Michah Mithun Saha**  
 - GitHub: [Mithun324](https://github.com/Mithun324)  
-- Email: [your@email.com](mailto:your@email.com) *(Replace with your email)*
+- Email: [michahsaha2016@gmail.com](mailto:michahsaha2016@gmail.com *
 
 ---
 
@@ -134,8 +129,6 @@ See [LICENSE](LICENSE) for details.
 ## ⭐ Show Your Support
 
 If you found this project helpful, please consider **starring the repository**:
-
-[![GitHub stars](https://img.shields.io/github/stars/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer?style=social)](https://github.com/Mithun324/LightweightCNN-for-Early-Detectionof-LungCancer/stargazers)
 
 ---
 
